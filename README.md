@@ -6,7 +6,7 @@
 ## I'm a Developer
 
 - 👨🏻‍💻 I’m currently learning to code
-- 🥅 2022 Goals: Dive deep Into Back-End programminAg
+- 🥅 2022 Goals: Dive deep Into Back-End programming
 - 🔭 Fun fact: I love astronomy / physics
 
 ### Connect with me:
