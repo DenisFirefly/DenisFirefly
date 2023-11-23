@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="On the way" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Denis | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Twitter_and_X_logos.svg/2560px-Twitter_and_X_logos.svg.png" />][twitter]
+[<img align="left" alt="Denis | Twitter" width="22px" src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" />][twitter]
 [<img align="left" alt="Denis | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 [<img align="left" alt="Denis | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />][instagram]
 
