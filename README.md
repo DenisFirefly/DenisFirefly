@@ -12,9 +12,9 @@
 ### Connect with me:
 
 [<img align="left" alt="On the way" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Denis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Denis | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Twitter_and_X_logos.svg/2560px-Twitter_and_X_logos.svg.png" />][twitter]
 [<img align="left" alt="Denis | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
-[<img align="left" alt="Denis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Denis | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />][instagram]
 
 <br />
 
@@ -57,7 +57,7 @@
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/DNA_Skyler
 [instagram]: https://www.instagram.com/dna_skyler
-[linkedin]: https://www.linkedin.com/in/denis-ahmed-b1427a12a/
+[linkedin]: https://www.linkedin.com/in/denis-shivarov-320518298/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
