@@ -57,7 +57,7 @@
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/DNA_Skyler
 [instagram]: https://www.instagram.com/dna_skyler
-[linkedin]: https://www.linkedin.com/in/denis-shivarov-320518298/
+[linkedin]: https://www.linkedin.com/in/denis-shivarov/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
