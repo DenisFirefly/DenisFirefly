@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=On_the_way&style=for-the-badge&url=https%3A%2F%2Fon_the_way)]("On the way") -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/DNA_Skyler?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDNA_Skyler&screen_name=DNA_Skyler)
 
-## I'm a Developer
+## I'm a Java and C# Developer
 
 - 👨🏻‍💻 I’m currently learning to code
 - 🥅 2023 Goals: Dive deep Into Back-End programming
