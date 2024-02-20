@@ -5,8 +5,8 @@
 
 ## I'm a Java and C# Developer
 
-- 👨🏻‍💻 I’m currently learning to code
-- 🥅 2023 Goals: Dive deep Into Back-End programming
+- 👨🏻‍💻 I’m currently searching Job as Software Developer
+- 🥅 2024 Goals: Dive deep Into the IT-Development Bussiness World
 - 🔭 Fun fact: I love astronomy / physics
 
 ### Connect with me:
